@@ -1,3 +1,89 @@
 /* 
+
     General Styles
 */
+
+body {
+  background-image: url('https://science.nasa.gov/wp-content/uploads/2023/04/image1_-_stsci-h-p1835a-m-2000x1768-1.png?w=2560&format=webp');
+  background-repeat: repeat;
+  background-size: contain;
+  
+ 
+}
+img{
+
+  
+}
+
+
+.logo {
+  width: 100px;
+  height: 50px;
+}
+
+.boton-navbar {
+  margin-right: 70px;
+}
+
+.border-color {
+  border-color: #ffe81f;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+.border-color:hover {
+  color: black;
+  background-color: #ffe81f;
+}
+
+.boton-card-learn {
+  background-color: black;
+  color: white;
+  border: 3px solid #ffe81f;
+}
+
+.max-height {
+  max-height: max-content;
+  overflow-x: scroll;
+  gap: 20px;
+   background-image: url('https://c4.wallpaperflare.com/wallpaper/94/602/369/surface-light-silver-background-wallpaper-preview.jpg'); 
+  opacity: calc(1);
+  background-repeat: repeat;
+  
+  
+  background-position: center;
+  
+  
+ 
+  padding: 30px 0px 30px 0px;
+  
+}
+
+.card {
+  min-width: 300px;
+  
+}
+
+.text-h1{
+  color:	#A9A9A9;
+  
+  
+  /* text-shadow: -1px 0 rgb(252, 252, 252), 0 1px rgb(235, 232, 232), 1px 0 rgb(243, 236, 236), 0 -1px rgb(236, 232, 232); */
+  /* background-image: url('https://c4.wallpaperflare.com/wallpaper/94/602/369/surface-light-silver-background-wallpaper-preview.jpg'); */
+  background-color: #151515ae;
+  
+  
+             
+
+}
+
+.close-icon{
+  color: #ffe81f ;
+  border: 1px soil black;
+}
+
+.card-detail{
+  margin-left: auto;
+  margin-right: auto;
+}
